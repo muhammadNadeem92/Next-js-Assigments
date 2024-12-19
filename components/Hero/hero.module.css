@@ -1,0 +1,47 @@
+.main{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.sec{
+    color: white;
+    width: 50%;
+    
+   
+}
+.sec2{
+    width: 50%;
+}
+.h1{
+    font-size: 65px;
+    padding-left: 36px;
+    letter-spacing: 0.5;
+}
+ .button {
+    
+background-color: rgb(103, 158, 231);
+color: white;
+font-size: 25px;
+padding: 15px;
+padding-left: 32px;
+padding-right: 32;
+margin-left: 36px;
+border-radius: 5px;
+border-color: rgb(33, 33, 253);
+}
+.button:hover{
+    background-color: rgb(76, 226, 76);
+}
+.image{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 36px;
+   margin-left: 36px;
+   border:2px transparent ;
+   border-radius: 50%;
+}
